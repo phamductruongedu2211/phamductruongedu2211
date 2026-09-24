@@ -8,7 +8,7 @@
 
 ### Academic Information
 
-* **Full Name:** Phạm Đức Trường
+* **Full Name:** Pham Duc Truong
 * **Student ID:** 25810048
 * **Major:** Information Technology
 * **Role:** Student / Developer
