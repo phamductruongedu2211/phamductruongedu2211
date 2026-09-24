@@ -1,16 +1,24 @@
-## Hi there 👋
+# Pham Duc Truong (Russell)
 
-<!--
-**phamductruongedu2211/phamductruongedu2211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Main GitHub](https://img.shields.io/badge/Main_Profile-rustybrozen-181717?style=flat&logo=github)](https://github.com/rustybrozen)
+[![Portfolio](https://img.shields.io/badge/Portfolio-anhpan.soon.it-0f766e?style=flat)](https://anhpan.soon.it/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Academic Information
+
+* **Full Name:** Phạm Đức Trường
+* **Student ID:** 25810048
+* **Major:** Information Technology
+* **Role:** Student / Developer
+
+> **Note:** This is my dedicated academic account used for university assignments, coursework, and laboratory projects. For my personal side projects, freelance work, and production source code, please visit my main profile at **@rustybrozen**.
+
+---
+
+### Contact
+
+
+* **Personal Email:** pteverest12@gmail.com
+* **GitHub (Primary):** @rustybrozen
