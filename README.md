@@ -13,12 +13,6 @@
 * **Major:** Information Technology
 * **Role:** Student / Developer
 
-> **Note:** This is my dedicated academic account used for university assignments, coursework, and laboratory projects. For my personal side projects, freelance work, and production source code, please visit my main profile at **@rustybrozen**.
-
----
-
-### Contact
+> **Note:** This is my dedicated academic account used for university assignments, coursework, and laboratory projects
 
 
-* **Personal Email:** pteverest12@gmail.com
-* **GitHub (Primary):** @rustybrozen
